@@ -12,7 +12,8 @@ export default function Hero() {
     }
     return <section className='flex flex-col md:flex-row px-5 py-32 bg-secondary  justify-center'>
         <div className='w1/2 flex flex-col'>
-            <h1 className=' text-white text-5xl font-pop-font'>Hi, <br />I'm <span className='text-gray-400'>Surendhar Thanigaivel</span>
+            <h1 className=' text-white text-5xl font-pop-font'>Hi, <br />I'm <span className='text-blue-800 animate-slidein'>
+                Surendhar Thanigaivel</span>
             <p className='text-2xl'>Im a Front-end Developer</p>
         </h1>
         <div className='flex py-10 '>
